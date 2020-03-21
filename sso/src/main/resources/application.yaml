@@ -1,0 +1,5 @@
+sso:
+  acs: https://www.jiandaoyun.com/sso/custom/5e61bee299f9a30006d7f44b/acs
+  secret: yafDVBL1uEXTm85Rfg49WaVL
+server:
+  port: 8080
